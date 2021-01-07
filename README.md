@@ -2,5 +2,5 @@
 alpine<br>
 openvpn with nordvpn config<br>
 iptables<br>
-traefic proxy<br>
+proxy<br>
 heathcheck<br>
